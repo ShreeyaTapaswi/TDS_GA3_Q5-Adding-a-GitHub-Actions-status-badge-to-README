@@ -1,1 +1,1 @@
-# TDS_GA3_Q5-Adding-a-GitHub-Actions-status-badge-to-README
+[![CI](https://github.com/ShreeyaTapaswi/TDS_GA3_Q5-Adding-a-GitHub-Actions-status-badge-to-README/actions/workflows/ci.yml/badge.svg)](https://github.com/ShreeyaTapaswi/TDS_GA3_Q5-Adding-a-GitHub-Actions-status-badge-to-README/actions/workflows/ci.yml)
